@@ -1,0 +1,15 @@
+# Built by Dev-C++
+*.o
+*.exe
+*.res
+Makefile.win
+*_private.rc
+*_private.h
+*.layout
+
+# Made by the game when it runs (your own caverns, artwork, sounds and scores)
+caverns.txt
+sprites.txt
+sounds.txt
+scores.txt
+*.hi
